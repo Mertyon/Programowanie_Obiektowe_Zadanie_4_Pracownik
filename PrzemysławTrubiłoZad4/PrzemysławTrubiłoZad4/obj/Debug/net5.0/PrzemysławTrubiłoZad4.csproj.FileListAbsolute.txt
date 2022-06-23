@@ -1,0 +1,16 @@
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\obj\Debug\net5.0\PrzemysławTrubiłoZad4.csproj.AssemblyReference.cache
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\obj\Debug\net5.0\PrzemysławTrubiłoZad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\obj\Debug\net5.0\PrzemysławTrubiłoZad4.AssemblyInfoInputs.cache
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\obj\Debug\net5.0\PrzemysławTrubiłoZad4.AssemblyInfo.cs
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\obj\Debug\net5.0\PrzemysławTrubiłoZad4.csproj.CoreCompileInputs.cache
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\bin\Debug\net5.0\PrzemysławTrubiłoZad4.exe
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\bin\Debug\net5.0\PrzemysławTrubiłoZad4.deps.json
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\bin\Debug\net5.0\PrzemysławTrubiłoZad4.runtimeconfig.json
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\bin\Debug\net5.0\PrzemysławTrubiłoZad4.runtimeconfig.dev.json
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\bin\Debug\net5.0\PrzemysławTrubiłoZad4.dll
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\bin\Debug\net5.0\ref\PrzemysławTrubiłoZad4.dll
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\bin\Debug\net5.0\PrzemysławTrubiłoZad4.pdb
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\obj\Debug\net5.0\PrzemysławTrubiłoZad4.dll
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\obj\Debug\net5.0\ref\PrzemysławTrubiłoZad4.dll
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\obj\Debug\net5.0\PrzemysławTrubiłoZad4.pdb
+C:\Users\Przemysław Trubiło\OneDrive\Pulpit\Programowanie\C#\Repos\Programowanie_Obiektowe_Zadanie_4_Pracownik\PrzemysławTrubiłoZad4\PrzemysławTrubiłoZad4\obj\Debug\net5.0\PrzemysławTrubiłoZad4.genruntimeconfig.cache
